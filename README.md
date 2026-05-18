@@ -3,7 +3,8 @@
 Diseño de una portada de diario digital original siguiendo los principios de arquitectura CSS separada, diseño adaptativo enfocado en dispositivos móviles inicialmente, y maquetación fluida mediante Flexbox.
 
 ## Demo En Vivo
-* Puedes visualizar la portada online aquí: [LINK_DE_GITHUB_PAGES_ACA]
+* Puedes visualizar la portada online aquí:
+https://labordajeronimo.github.io/portal-noticias-flexbox/
 
 ## Criterios Cumplidos
 * **Mobile First:** Diseño pensado desde resoluciones móviles (una columna, menú oculto) escalando a computadoras de escritorio por medio de Media Queries.
